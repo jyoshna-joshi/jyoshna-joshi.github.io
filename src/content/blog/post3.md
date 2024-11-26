@@ -1,10 +1,10 @@
 ---
-title: "Demo Post 3"
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-pubDate: "Sep 12 2022"
+title: "Get updates to forked repo"
+description: "In my previous blog post, I outlined the process of contributing to open-source projects. In this article, I’ll detail the steps to get changes in your forked repository from the main repository and ultimately view them in your..."
+pubDate: "Mar 8 2024"
 heroImage: "/post_img.webp"
-badge: "Demo badge"
-tags: ["rust","tokio"]
+# badge: "Demo badge"
+tags: ["Fork","Git"]
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor

@@ -1,7 +1,7 @@
 ---
-title: "Demo Post 2"
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-pubDate: "Sep 11 2022"
+title: "Get started with open-source contribution"
+description: "In today’s technologically advanced era, geographical boundaries no longer limit participation in projects. Remote work is thriving, especially in the developer community, where physical presence is often unnecessary for..."
+pubDate: "Feb 4 2024"
 heroImage: "/post_img.webp"
 ---
 
